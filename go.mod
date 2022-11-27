@@ -8,10 +8,9 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-github/v29 v29.0.3
 	github.com/gosuri/uiprogress v0.0.1
-	github.com/h2non/gock v1.0.9
+	github.com/h2non/gock v1.2.0
 	github.com/linuxsuren/cobra-extension v0.0.16
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/nbio/st v0.0.0-20140626010706-e9e8d9816f32 // indirect
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
 	github.com/spf13/cobra v1.2.1
